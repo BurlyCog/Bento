@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Drive',
+			icon: 'hard-drive',
+			link: 'https://drive.proton.me/u/0/LEcKhyKWp645aPgFKk5V3gfVjIAK3Z3sxogEvqn20MMEvYbj-WvBFWHrKCEApCZp_CBANx0-bXE_kPaCsjwyiQ==/folder/dyZ4UVkPKUDF2tcWtVfdU-KmL0jRoUQirUpfhg9U3_PeYwn6abxhkjtjYkQAiJG_9G5UPV1y299d31EYOZwtXg==',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'GPT',
+			icon: 'bot',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '5',
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/feed/subscriptions',
 		},
 	],
 
